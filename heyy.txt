@@ -3,3 +3,7 @@ hoi
 nama saya hanim
 hai hanim apa khabar
 ldfkh
+<<<<<<< HEAD
+=======
+apa habaq semuaaa
+>>>>>>> origin/master
